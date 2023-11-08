@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nijat Yusifov</h1>
-<h3 align="center">A passionate full stack developer from Azerbaijan. I am currently living in Poland.</h3>
+<h3 align="center">A passionate full-stack developer from Azerbaijan. I am currently living in Poland. Since 2019, I've been on an exciting journey of honing my coding skills through online courses, self-study, and physical lessons. I hold certificates in Front-End development from John Hopkins University, Coders Azerbaijan, and IT support from Google. These experiences have not only expanded my knowledge but also sharpened my problem-solving abilities.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusifovnijat&label=Profile%20views&color=0e75b6&style=flat" alt="yusifovnijat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently developing my skills in **Java and Spring Boot**
+- 🌱 Currently, I'm diving into **Java and Spring Boot**, working on my skills to develop robust applications. I've already completed a project, which you can check out below. 
 
 - 👨‍💻 All of my projects are available at [nijatyusifov.com](nijatyusifov.com)
 
