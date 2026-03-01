@@ -8,8 +8,6 @@ I specialize in transforming business needs into structured data insights and im
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 Currently, I'm diving into **Java and Spring Boot**, working on my skills to develop robust applications. I've already completed a project, which you can check out below. 
-
 - 👨‍💻 All of my projects are available at [nijatyusifov.com](nijatyusifov.com)
 
 - 📫 How to reach me **nijatyusifov@outlook.com**
