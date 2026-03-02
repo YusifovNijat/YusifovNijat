@@ -29,9 +29,5 @@ I specialize in transforming business needs into structured data insights and im
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusifovnijat&show_icons=true&locale=en&layout=compact" alt="yusifovnijat" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusifovnijat&show_icons=true&locale=en" alt="yusifovnijat" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusifovnijat&" alt="yusifovnijat" /></p>
 
