@@ -8,8 +8,6 @@ I specialize in transforming business needs into structured data insights and im
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [nijatyusifov.com](nijatyusifov.com)
-
 - 📫 How to reach me **nijatyusifov@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nijat-yusifov-47b369198/](https://www.linkedin.com/in/nijat-yusifov-47b369198/)
